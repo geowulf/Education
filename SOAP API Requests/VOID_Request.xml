@@ -11,9 +11,9 @@
   <soapenv:Body>
     <requestMessage xmlns="urn:schemas-cybersource-com:transaction-data-{{version}}">
        <merchantID>{{username}}</merchantID>
-      <merchantReferenceCode>INV001</merchantReferenceCode>
+      <merchantReferenceCode>MRN-23456789</merchantReferenceCode>
         <voidService run="true">
-           <voidRequestID>3964708920530176056470</voidRequestID>
+           <voidRequestID>{{REQUEST_ID_TO_VOID}}</voidRequestID>
         </voidService>
 </requestMessage>
   </soapenv:Body>
