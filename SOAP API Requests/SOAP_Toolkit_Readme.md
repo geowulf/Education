@@ -4,5 +4,5 @@ These XML Payloads have a SOAP header to be used with the CYBS Simple Order API 
 
 You can go view the schema [here](https://ics2wsa.ic3.com/commerce/1.x/transactionProcessor/).
 
-If you are interested in using getting *interchange discounts* contact [ME](mailto:gregory.woolf@wellsfargo.com?subject=L3InterchangeDiscount)
+If you are interested in using getting *interchange discounts* contact [ME](mailto:gregory.woolf@wellsfargo.com?subject=L3_Interchange_Discount)
 
